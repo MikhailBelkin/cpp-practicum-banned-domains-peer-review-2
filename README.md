@@ -1,2 +1,2 @@
-# cpp-practicum-banned-domains-template
+# cpp-banned-domains-template
 Just example of backend domain filter
